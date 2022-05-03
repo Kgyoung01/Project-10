@@ -10,7 +10,7 @@ https://ourworldindata.org/grapher/life-expectancy-at-birth-total-years?tab=tabl
 This dataset was interesting because it had recent data between 2017-2021, which was "Pre-Covid/Post-Covid", and we were curious if there were any noticeable changes across various cities/countries in the air pollution.
 #Questions devleoped based on the datesets utilized:
 1. What is the largest movement/transition in air quality index per country (pre-covid vs post covid)?
-There was a 14% decrease between 2018 and 2021 in AQI for the dataset of 72 countries.
+There was a 14% decrease in aggregate between 2018 and 2021 in the mean AQI for the dataset of 72 countries.
 There was a slight increase in AQI in 2021 from 2020 when Covid-19 movement restrictions ended. 
 2. Does the Air Quality Index affect the average temperature change(value)  over time?
 Worldwide temperatures increased in our dataset 1.71 degrees in aggregate. 
